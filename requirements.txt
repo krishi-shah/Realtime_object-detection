@@ -1,0 +1,25 @@
+# Real-Time Object Detection Dependencies
+# YOLOv8 - Ultralytics (free, open-source)
+ultralytics>=8.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+opencv-python-headless>=4.8.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Utilities
+tqdm>=4.65.0
+PyYAML>=6.0
+
+# Optional: For GPU support (CUDA)
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
