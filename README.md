@@ -258,5 +258,3 @@ Contributions are welcome! Feel free to:
 - [COCO Dataset](https://cocodataset.org/)
 
 ---
-
-Made with ❤️ using YOLOv8, OpenCV, and Python
